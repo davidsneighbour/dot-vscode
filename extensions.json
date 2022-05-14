@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+
+    "dbaeumer.vscode-eslint",
+    "GitHub.copilot",
+    "usernamehw.errorlens",
+    "EditorConfig.EditorConfig",
+    "GitHub.vscode-pull-request-github"
+
+  ]
+}
